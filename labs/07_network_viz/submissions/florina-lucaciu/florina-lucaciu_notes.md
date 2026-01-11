@@ -1,0 +1,3 @@
+1. Am folosit metoda spring.
+
+2. Vizualizarea transformă listele abstracte de corelații într-o hartă topologică intuitivă, permițând identificarea imediată a structurii globale a rețelei pe care tabelele o ascund. Spre deosebire de analiza numerică, graficul evidențiază vizual nu doar genele centrale (hub-uri), ci și "punțile" critice care conectează module funcționale diferite, oferind o validare rapidă a faptului că gruparea matematică a genelor are sens biologic real și nu este doar zgomot statistic.
